@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnonimClass/AnonimClass.iml" filepath="$PROJECT_DIR$/AnonimClass/AnonimClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DatabaseTutorial/DatabaseTutorial.iml" filepath="$PROJECT_DIR$/DatabaseTutorial/DatabaseTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamApi/StreamApi.iml" filepath="$PROJECT_DIR$/StreamApi/StreamApi.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstractClass/abstractClass.iml" filepath="$PROJECT_DIR$/abstractClass/abstractClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/home2/home2.iml" filepath="$PROJECT_DIR$/home2/home2.iml" />
       <module fileurl="file://$PROJECT_DIR$/incop/incop.iml" filepath="$PROJECT_DIR$/incop/incop.iml" />
